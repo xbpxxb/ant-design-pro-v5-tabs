@@ -1,0 +1,1 @@
+window.baseUrl = 'http://http://jsonplaceholder.typicode.com'
